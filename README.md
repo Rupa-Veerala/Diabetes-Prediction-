@@ -9,3 +9,13 @@ Diabetes prediction using support vector machine for prediction, here analyaze t
 It is avaliable in kaggle website 
 
 Here is the dataset link https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset 
+
+**Libraries which i used for prediction**
+
+-->Numpy
+
+-->Pandas
+
+-->Sklearn
+
+
