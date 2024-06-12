@@ -20,4 +20,4 @@ Here is the dataset link https://www.kaggle.com/datasets/akshaydattatraykhare/di
 
 **Outcome '0' means non diabetes, '1' means diabetes**
 
-                                                                                      THANK YOU
+                                                                      THANK YOU
