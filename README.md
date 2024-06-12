@@ -18,6 +18,11 @@ Here is the dataset link https://www.kaggle.com/datasets/akshaydattatraykhare/di
 
 -->Sklearn
 
+**Output**
+
+![image](https://github.com/Rupa-Veerala/Diabetes-Prediction-/assets/102415108/f14bc2ee-0a18-41ce-80c7-1f9dd93e5b87)
+
+
 **Outcome '0' means non diabetes, '1' means diabetes**
 
                                                                       THANK YOU
