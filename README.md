@@ -1,4 +1,4 @@
-# DIABETES PREDICTION USING SVM ALOGORITHM
+#                  DIABETES PREDICTION USING SVM ALOGORITHM
 
 **About**
 
@@ -18,4 +18,6 @@ Here is the dataset link https://www.kaggle.com/datasets/akshaydattatraykhare/di
 
 -->Sklearn
 
+**Outcome '0' means non diabetes, '1' means diabetes**
 
+                                                                                      THANK YOU
